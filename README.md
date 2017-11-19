@@ -20,5 +20,8 @@ Pimatic: https://pimatic.org/
 Adafruit (GFX-Library): https://learn.adafruit.com/adafruit-gfx-graphics-library/
 ZinggJM (GxEPD): https://github.com/ZinggJM/GxEPD
 
-# Circuit:
-To be done
+# Howto
+Following.
+
+# Circuit
+Following.
