@@ -1,5 +1,5 @@
 #include <GxEPD.h>
-#include <GxGDEP015OC1/GxGDEP015OC1.cpp>  // 1.54" b/w
+#include <GxGDEP015OC1/GxGDEP015OC1.cpp>
 
 #include <Fonts/FreeMonoBold9pt7b.h>
 #include <Fonts/FreeMonoBold24pt7b.h>
